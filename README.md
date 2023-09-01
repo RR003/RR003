@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer (Intern)
 --------------------------
 
-I have first dabbled in programming in high school and loved the problem-solving aspect of it, which ultimately led me to major in Computer Science in college. I then learned full-stack development and now have multiple personal projects, such as Stockfluence and ShowBinge. I have completed various Software Engineering internships, with my most recent one at Verisk Analytics
+I have first dabbled in programming in high school and loved the problem-solving aspect of it, which ultimately led me to major in Computer Science in college. I then learned full-stack development and now have multiple personal projects, such as Stockfluence and ShowBinge. I have completed various Software Engineering internships, with my most recent one at Verisk Analytics.
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [link](http://rr003.github.io/PersonalWebsite/)
